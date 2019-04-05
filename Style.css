@@ -1,0 +1,30 @@
+
+
+
+.nav{
+	display: inline;
+	margin: auto;
+	height: 100px;
+}
+
+.first-image img {
+	width: 1430px;
+ 	height: 450px;
+ 	position: absolute;
+ 	border-radius: 10px;
+}
+.second-image img{
+	width: 250px;
+    height: 245px;
+    border-radius: 140px;
+    position: relative;
+    margin: 190px 22px;
+
+}
+.links a {
+	margin-left: 80px; 
+}
+
+.fa {font-size: 50px;
+	
+}
